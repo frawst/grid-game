@@ -17,8 +17,14 @@ I would like to impliment some sort of end-game goal, however.
 
 - Display refreshing function (*There likely exists libraries for this, let's try to write our own*)
   - Ability to clear command window of contents and repopulate with desired contents
-  - If possible, set the command window to specific resolution
+  - If possible, set the command window to specific 'resolution' (Rows && Collumns)
     - FUTURE: Possibility of resolution scaling with variables, would require some dynamic rendering
+    
+- Graphics
+  - Drawing the map
+  - Moving the player
+  - Displaying other relevant information, text on screen vs. command access
+    - Use different display states for 'windows'?
 
 - Consistency / Object Orientation
   - How can we keep track of player information?
@@ -29,3 +35,7 @@ I would like to impliment some sort of end-game goal, however.
   - And keeping track of the map/player progress?
     - Location
     - Events @ location
+
+## MISC
+
+Feel free to modify this readme as project progresses.
