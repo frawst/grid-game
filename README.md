@@ -10,6 +10,8 @@ No further philosophy at this time, as this is mostly a learning experiment.
 
 I would like to impliment some sort of end-game goal, however.
 
+[CPP Format Guidelines](https://github.com/frawst/grid-game)
+
 ## Current Problems
 
 - Display refreshing function (*There likely exists libraries for this, let's try to write our own*)
