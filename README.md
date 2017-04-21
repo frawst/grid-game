@@ -36,6 +36,16 @@ I would like to impliment some sort of end-game goal, however.
     - Location
     - Events @ location
 
+- Handling command input
+  - There is a bit of code currently there to handle a command once it's received
+  - How to check user string input against available commands?
+    - We CANNOT use string comparisons! Find an alternative.
+
+- Handling general functionality
+  - When player steps into a room, what happens?
+  - When a player uses an item?
+  - Misc. functionality, update this as considerations arise
+
 ## MISC
 
 Feel free to modify this readme as project progresses.
